@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "bindu:: Hello"
-echo "sweety::hiii"
+P1=bindu
+p2=sweety
+echo "$p1:: Hello"
+echo "$p2::hiii"
