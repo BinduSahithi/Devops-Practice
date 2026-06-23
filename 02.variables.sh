@@ -1,5 +1,6 @@
 #!/bin/bash
-p1=bindu
-p2=sweety
-echo "$p1:: Hello"
-echo "$p2::hiii"
+
+echo "Rahim:: Hi Robert"
+echo "Robert:: Hello Rahim"
+echo "Rahim:: How are you doing?"
+echo "Robert:: I am good. How are you?"
